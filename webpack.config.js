@@ -20,7 +20,7 @@ module.exports = {
   },
   output: {
     filename: 'script.js',
-    path: path.resolve(__dirname, 'physicsTest', 'scripts')
+    path: path.resolve(__dirname, 'bowling', 'scripts')
   },
   externals: {
     Animation: 'commonjs Animation',
